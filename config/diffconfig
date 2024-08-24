@@ -1,0 +1,3 @@
+CONFIG_TARGET_ipq40xx=y
+CONFIG_TARGET_ipq40xx_ipq6000=y
+CONFIG_TARGET_ipq40xx_ipq6000_DEVICE_generic=y
